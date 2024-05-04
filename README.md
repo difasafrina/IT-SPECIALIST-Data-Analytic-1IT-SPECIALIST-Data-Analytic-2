@@ -1,4 +1,4 @@
-# IT-SPECIALIST-Data-Analytic-1IT-SPECIALIST-Data-Analytic-2
+# IT-SPECIALIST-Data-Analytic-2
 Welcome to "IT Specialist Data Analytics 2"! 🛫
 
 Step directly into a wealth of resources and code snippets designed to deepen your understanding of the foundational concepts of Data Analytics, essential for honing your skills in data analysis.
